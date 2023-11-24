@@ -36,7 +36,7 @@ if "messages" in st.session_state:
         print(m, flush=True)
 
 # WEB CONTENT STARTS HERE
-st.title("AI Coach for SomeBank")
+st.title("AI Coach for SomeBank (v 0.0)")
 # st.title("AI Coach for SomeBank - 5<sup>Tm</sup> of December 2023")
 # st.components.v1.html("AI Coach for SomeBank - 5<sup>th</sup> of December 2023")
 
